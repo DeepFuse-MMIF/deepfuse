@@ -1,2 +1,49 @@
-# deepfuse
-Multi Modal Image Fusion
+## [Live Link](https://www.loom.com/share/92a9a92958354d278b89b57373503f95?sid=8631f864-301d-4d75-980b-9a232a2005d5)
+**See how this product works**
+
+
+# About DeepFuse
+**DeepFuse** is a platform that provides the next-generation technique for registering and fusing multi-modal images in real-world medical applications. 
+
+## Key Features
+- **1**. It provides more accurate and reliable statistics than any single image while retaining the best functions for medically testing, diagnosing and curing diseases.
+- **2**. Decomposing into different frequency wavelet bands for better efficiency.
+- **3**. Accurate controlled-based key frame registration technique.
+- **4**. Open Source framework that can be embedded into any real-world medical applications.
+- **5**. Multi-modal fusion through pre-trained VGG19 model.
+
+-----
+
+# How to run the project
+
+**1. Clone the Repository**
+
+- Use the following command to clone the project repository: ```git clone <repository-url>```
+
+**2. Navigate to the frontend folder**
+
+- Use the command ```cd frontend``` to navigate to the frontend folder.
+- Use the command ```npm run start``` to run your frontend application.
+
+**3. Navigate to the backend folder**
+
+- Use the command ```cd backend``` to navigate to the backend folder.
+- Use the command ```python main.py``` to run your backend application.
+
+*4. Read the instructions/process properly before using the product.*
+
+
+# Images for reference
+![image](https://github.com/user-attachments/assets/557f6947-520b-4e26-8d3d-5036005b287b)
+![image](https://github.com/user-attachments/assets/03f78d74-f8d6-4df2-8766-94537bbcd837)
+
+
+
+
+
+
+
+
+
+
+
