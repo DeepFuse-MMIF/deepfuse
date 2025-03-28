@@ -34,8 +34,15 @@
 
 
 # Images for reference
-![image](https://github.com/user-attachments/assets/557f6947-520b-4e26-8d3d-5036005b287b)
+**CT Image**
+![image](https://github.com/user-attachments/assets/e1274cfa-13cf-4b09-8433-5b7b0001672a)
+**MRI Image**
+![image](https://github.com/user-attachments/assets/69422062-5fc5-4764-8c17-8980d9cb4cfb)
+**Points selected on both the images**
 ![image](https://github.com/user-attachments/assets/03f78d74-f8d6-4df2-8766-94537bbcd837)
+**Fusion Image**
+![image](https://github.com/user-attachments/assets/5c8c3bf5-6a62-47d2-9842-257a40bc2e3a)
+
 
 
 
