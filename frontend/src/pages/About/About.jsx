@@ -431,7 +431,7 @@ export default function About() {
                 href={
                   maker.name === "Jaskirat Singh"
                     ? "https://jaskiratsingh2000.github.io/"
-                    : "https://prabhavdev.me/"
+                    : "https://prabhavdev.com/"
                 }
                 target="_blank"
                 rel="noopener noreferrer"
@@ -447,7 +447,7 @@ export default function About() {
                 href={
                   maker.name === "Jaskirat Singh"
                     ? "https://jaskiratsingh2000.github.io/"
-                    : "https://prabhavdev.me/"
+                    : "https://prabhavdev.com/"
                 }
                 target="_blank"
                 rel="noopener noreferrer"
