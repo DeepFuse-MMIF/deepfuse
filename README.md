@@ -1,6 +1,16 @@
 ## [Live Demonstration](https://www.loom.com/share/92a9a92958354d278b89b57373503f95?sid=8631f864-301d-4d75-980b-9a232a2005d5)
 **See how this product works**
 
+## 🚀 Use the Product
+
+[⬇️ **Download Application (Google Drive)**](https://drive.google.com/your-zip-link-here)
+
+### Steps to Run
+1. **Download and extract** the ZIP file from the link above.  
+2. Inside the extracted folder, **double-click `Start Application.bat`**.  
+3. A Command Prompt window will open. When it’s ready, open this link in your browser:  
+   👉 [http://localhost:5000](http://localhost:5000)  
+4. ⚠️ **Do not close the Command Prompt** while using the application (it keeps the server running).
 
 # About DeepFuse
 **DeepFuse** is a platform that provides the next-generation technique for registering and fusing multi-modal images in real-world medical applications. 
