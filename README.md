@@ -22,27 +22,6 @@
 - **4**. Open Source framework that can be embedded into any real-world medical applications.
 - **5**. Multi-modal fusion through pre-trained VGG19 model.
 
------
-
-# How to run the project
-
-**1. Clone the Repository**
-
-- Use the following command to clone the project repository: ```git clone <repository-url>```
-
-**2. Navigate to the frontend folder**
-
-- Use the command ```cd frontend``` to navigate to the frontend folder.
-- Use the command ```npm run start``` to run your frontend application.
-
-**3. Navigate to the backend folder**
-
-- Use the command ```cd backend``` to navigate to the backend folder.
-- Use the command ```python main.py``` to run your backend application.
-
-*4. Read the instructions/process properly before using the product.*
-
-
 # Images for Reference
 
 ## CT Image  
