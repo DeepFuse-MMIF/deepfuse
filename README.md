@@ -9,8 +9,8 @@
    👉 [http://localhost:5000](http://localhost:5000)  
 4. ⚠️ **Do not close the Command Prompt** while using the application (it keeps the server running).
 
-## [Live Demonstration](https://www.loom.com/share/92a9a92958354d278b89b57373503f95?sid=8631f864-301d-4d75-980b-9a232a2005d5)
-**See how this product works**
+## [Video Demonstration](https://www.loom.com/share/92a9a92958354d278b89b57373503f95?sid=8631f864-301d-4d75-980b-9a232a2005d5)
+**A quick video walkthrough is provided to help you understand how to use this product effectively.**
 
 # About DeepFuse
 **DeepFuse** is a platform that provides the next-generation technique for registering and fusing multi-modal images in real-world medical applications. 
